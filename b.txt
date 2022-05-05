@@ -1,2 +1,2 @@
 github is a service.
-it requires net connection to function.
+
